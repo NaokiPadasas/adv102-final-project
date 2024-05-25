@@ -1,0 +1,21 @@
+.my-list-container {
+    margin: 20px;
+  }
+  
+  .my-list-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .my-list-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .my-list-container li {
+    margin-bottom: 5px;
+  }
+  
+  .my-list-container button {
+    margin-left: 10px;
+  }
+  

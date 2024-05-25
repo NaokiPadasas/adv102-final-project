@@ -1,0 +1,47 @@
+/* src/components/MyList/MyList.css */
+.my-list {
+    background-color: #141414;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .my-list h3 {
+    color: #fff;
+  }
+  
+  .my-list input {
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  
+  .my-list button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #e50914;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .my-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .my-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 5px;
+    background-color: #333;
+    border-radius: 3px;
+    color: #fff;
+  }
+  
+  .my-list li button {
+    background-color: #e50914;
+  }
+  
